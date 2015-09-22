@@ -1,0 +1,1 @@
+var product_array = ['ipod touch','iphone','ipad','macbook'];
